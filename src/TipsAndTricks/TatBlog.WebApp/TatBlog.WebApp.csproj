@@ -7,16 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TatBlog.Core\TatBlog.Core.csproj" />
-    <ProjectReference Include="..\TatBlog.Data\TatBlog.Data.csproj" />
-    <ProjectReference Include="..\TatBlog.Services\TatBlog.Services.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Properties\Models\" />
     <Folder Include="wwwroot\fonts\" />
     <Folder Include="wwwroot\templates\emails\" />
     <Folder Include="wwwroot\uploads\pictures\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TatBlog.Core\TatBlog.Core.csproj" />
+    <ProjectReference Include="..\TatBlog.Data\TatBlog.Data.csproj" />
+    <ProjectReference Include="..\TatBlog.Services\TatBlog.Services.csproj" />
   </ItemGroup>
 
 </Project>

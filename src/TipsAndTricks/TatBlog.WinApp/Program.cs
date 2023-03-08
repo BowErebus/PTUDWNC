@@ -4,6 +4,9 @@ using TatBlog.Data.Seeders;
 using TatBlog.WinApp;
 using System.Linq.Dynamic.Core;
 
+
+// --- Lab01 ---
+// --- PHẦN B ---
 // --- 5.1 ---
 //// Tạo đối tượng DbContext để quản lý phiên làm việc
 //// với CSDL và trạng thái của các đối tượng

@@ -1,599 +1,599 @@
 {
   "Files": [
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\css\\main.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\author.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\author.jpg",
       "PackagePath": "staticwebassets\\images\\author.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\bg_1.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\bg_1.jpg",
       "PackagePath": "staticwebassets\\images\\bg_1.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_1.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_1.jpg",
       "PackagePath": "staticwebassets\\images\\image_1.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_10.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_10.jpg",
       "PackagePath": "staticwebassets\\images\\image_10.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_11.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_11.jpg",
       "PackagePath": "staticwebassets\\images\\image_11.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_2.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_2.jpg",
       "PackagePath": "staticwebassets\\images\\image_2.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_3.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_3.jpg",
       "PackagePath": "staticwebassets\\images\\image_3.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_5.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_5.jpg",
       "PackagePath": "staticwebassets\\images\\image_5.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_7.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\image_7.jpg",
       "PackagePath": "staticwebassets\\images\\image_7.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\loc.png",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\loc.png",
       "PackagePath": "staticwebassets\\images\\loc.png"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_1.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_1.jpg",
       "PackagePath": "staticwebassets\\images\\person_1.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_2.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_2.jpg",
       "PackagePath": "staticwebassets\\images\\person_2.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_3.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_3.jpg",
       "PackagePath": "staticwebassets\\images\\person_3.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_4.jpg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\images\\person_4.jpg",
       "PackagePath": "staticwebassets\\images\\person_4.jpg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\js\\main.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\README.md",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\README.md",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\README.md"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.css.map",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.css.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\lib\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\README.md",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\README.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\README.md"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\README.md",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\README.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\README.md"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ar.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ar.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_az.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_az.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bg.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bg.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_bn_BD.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ca.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ca.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_cs.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_cs.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_da.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_da.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_de.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_de.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_el.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_el.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_AR.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_es_PE.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_et.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_et.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_eu.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_eu.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fa.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fa.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fi.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fi.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_fr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_fr.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ge.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ge.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_gl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_gl.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_he.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_he.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hr.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hu.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hu.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_hy_AM.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_id.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_id.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_is.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_is.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_it.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_it.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ja.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ja.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ka.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ka.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_kk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_kk.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ko.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ko.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lt.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lt.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_lv.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_lv.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_mk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_mk.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_my.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_my.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_nl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_nl.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_no.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_no.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pl.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_BR.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_pt_PT.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ro.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ro.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ru.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ru.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sd.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sd.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_si.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_si.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sk.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sl.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sr_lat.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_sv.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_sv.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_th.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_th.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tj.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tj.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_tr.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_tr.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_uk.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_uk.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_ur.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_ur.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_vi.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_vi.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\messages_zh_TW.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_de.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_de.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_es_CL.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_fi.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_fi.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_nl.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_nl.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\localization\\methods_pt.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\localization\\methods_pt.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\README.md",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\README.md",
       "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

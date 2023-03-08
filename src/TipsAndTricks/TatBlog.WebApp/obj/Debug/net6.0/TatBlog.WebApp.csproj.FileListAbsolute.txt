@@ -1,85 +1,85 @@
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\appsettings.Development.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\appsettings.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\libman.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.staticwebassets.runtime.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.exe
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.deps.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.runtimeconfig.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.pdb
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Azure.Core.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Azure.Identity.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Memory.Data.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Core.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Data.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Services.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Core.pdb
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Data.pdb
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Services.pdb
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.csproj.AssemblyReference.cache
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.GeneratedMSBuildEditorConfig.editorconfig
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.AssemblyInfoInputs.cache
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.AssemblyInfo.cs
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.csproj.CoreCompileInputs.cache
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.MvcApplicationPartsAssemblyInfo.cache
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.RazorAssemblyInfo.cache
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.RazorAssemblyInfo.cs
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.TatBlog.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.TatBlog.WebApp.props
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TatBlog.WebApp.props
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TatBlog.WebApp.props
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets.pack.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets.build.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets.development.json
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\scopedcss\bundle\TatBlog.WebApp.styles.css
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.csproj.CopyComplete
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\refint\TatBlog.WebApp.dll
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.pdb
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.genruntimeconfig.cache
-D:\Downloads\PTUDWNC-lab01-practice\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\ref\TatBlog.WebApp.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\appsettings.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\libman.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.staticwebassets.runtime.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.exe
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.deps.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.runtimeconfig.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.WebApp.pdb
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Azure.Core.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Core.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Data.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Services.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\bin\Debug\net6.0\TatBlog.Services.pdb
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.csproj.AssemblyReference.cache
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.AssemblyInfoInputs.cache
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.AssemblyInfo.cs
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.csproj.CoreCompileInputs.cache
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.RazorAssemblyInfo.cache
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.RazorAssemblyInfo.cs
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.TatBlog.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.TatBlog.WebApp.props
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TatBlog.WebApp.props
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TatBlog.WebApp.props
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\scopedcss\bundle\TatBlog.WebApp.styles.css
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.csproj.CopyComplete
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\refint\TatBlog.WebApp.dll
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.pdb
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\TatBlog.WebApp.genruntimeconfig.cache
+D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\obj\Debug\net6.0\ref\TatBlog.WebApp.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {}
+    "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+    "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectUniqueName": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
         "projectName": "TatBlog.Core",
-        "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
         "packagesPath": "C:\\Users\\Bow\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\obj\\",
+        "outputPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
+    "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+        "projectUniqueName": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
         "projectName": "TatBlog.Data",
-        "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+        "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
         "packagesPath": "C:\\Users\\Bow\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\obj\\",
+        "outputPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-                "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+              "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj": {
+    "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
+        "projectUniqueName": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
         "projectName": "TatBlog.Services",
-        "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
+        "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj",
         "packagesPath": "C:\\Users\\Bow\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Services\\obj\\",
+        "outputPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
@@ -164,11 +164,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-                "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+              "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
               },
-              "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
-                "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
+              "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
+                "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
               }
             }
           }
@@ -208,14 +208,14 @@
         }
       }
     },
-    "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {
+    "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
+        "projectUniqueName": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
         "projectName": "TatBlog.WebApp",
-        "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
+        "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\TatBlog.WebApp.csproj",
         "packagesPath": "C:\\Users\\Bow\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.WebApp\\obj\\",
+        "outputPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
@@ -236,14 +236,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-                "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+              "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+                "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
               },
-              "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
-                "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
+              "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj": {
+                "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj"
               },
-              "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj": {
-                "projectPath": "D:\\Downloads\\PTUDWNC-lab01-practice\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj"
+              "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj": {
+                "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Services\\TatBlog.Services.csproj"
               }
             }
           }

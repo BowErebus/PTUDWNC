@@ -12,8 +12,8 @@
         "dist/jquery.slim.js",
         "dist/jquery.slim.min.js",
         "dist/jquery.slim.min.map",
-        "LICENSE.txt",
-        "README.md"
+        "README.md",
+        "LICENSE.txt"
       ]
     },
     {
@@ -92,10 +92,10 @@
       "library": "jquery-validation-unobtrusive@4.0.0",
       "destination": "wwwroot/lib/jquery-validation-unobtrusive/",
       "files": [
-        "LICENSE.txt",
         "dist/jquery.validate.unobtrusive.js",
         "dist/jquery.validate.unobtrusive.min.js",
-        "README.md"
+        "README.md",
+        "LICENSE.txt"
       ]
     },
     {
@@ -146,8 +146,8 @@
         "dist/js/bootstrap.js.map",
         "dist/js/bootstrap.min.js",
         "dist/js/bootstrap.min.js.map",
-        "LICENSE",
-        "README.md"
+        "README.md",
+        "LICENSE"
       ]
     },
     {
