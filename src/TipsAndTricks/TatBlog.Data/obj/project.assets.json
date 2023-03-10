@@ -3246,11 +3246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+      "projectUniqueName": "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
       "projectName": "TatBlog.Data",
-      "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
+      "projectPath": "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Data\\TatBlog.Data.csproj",
       "packagesPath": "C:\\Users\\Bow\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Data\\obj\\",
+      "outputPath": "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
@@ -3271,8 +3271,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
-              "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
+            "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+              "projectPath": "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj"
             }
           }
         }

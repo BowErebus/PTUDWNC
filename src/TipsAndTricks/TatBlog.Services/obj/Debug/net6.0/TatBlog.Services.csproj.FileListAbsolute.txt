@@ -49,3 +49,20 @@ D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Services\obj\Debug\n
 D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\refint\TatBlog.Services.dll
 D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.pdb
 D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\ref\TatBlog.Services.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.deps.json
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\bin\Debug\net6.0\TatBlog.Services.pdb
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.AssemblyReference.cache
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfoInputs.cache
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.AssemblyInfo.cs
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.csproj.CopyComplete
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\refint\TatBlog.Services.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\TatBlog.Services.pdb
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Services\obj\Debug\net6.0\ref\TatBlog.Services.dll

@@ -9,45 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TatBlog.WebApp
 build_property.RootNamespace = TatBlog.WebApp
-build_property.ProjectDir = D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp\
+build_property.ProjectDir = D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.WebApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.WebApp
+build_property.MSBuildProjectDirectory = D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.WebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/Blog/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xCbG9nXEFib3V0LmNzaHRtbA==
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Blog/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/Blog/Contract.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xCbG9nXENvbnRyYWN0LmNzaHRtbA==
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Blog/Contract.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb250cmFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/Blog/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xCbG9nXEluZGV4LmNzaHRtbA==
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/Shared/_Header.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xTaGFyZWRcX0hlYWRlci5jc2h0bWw=
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Blog/_PostList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfUG9zdExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Blog/_TagList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xfVGFnTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/Shared/_SideBar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xTaGFyZWRcX1NpZGVCYXIuY3NodG1s
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Shared/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlQmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Git_User/PTUDWNC/src/TipsAndTricks/TatBlog.WebApp/Properties/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllc1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Program Files/Visual Studio 2022/Source/src/TipsAndTricks/TatBlog.WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

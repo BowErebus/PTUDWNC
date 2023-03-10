@@ -43,3 +43,18 @@ D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.
 D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\refint\TatBlog.Data.dll
 D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.pdb
 D:\Program Files\Git_User\PTUDWNC\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\ref\TatBlog.Data.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.deps.json
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Data.pdb
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\bin\Debug\net6.0\TatBlog.Core.pdb
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.AssemblyReference.cache
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfoInputs.cache
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.AssemblyInfo.cs
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.csproj.CopyComplete
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\refint\TatBlog.Data.dll
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\TatBlog.Data.pdb
+D:\Program Files\Visual Studio 2022\Source\src\TipsAndTricks\TatBlog.Data\obj\Debug\net6.0\ref\TatBlog.Data.dll

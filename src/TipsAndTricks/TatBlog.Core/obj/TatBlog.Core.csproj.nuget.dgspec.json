@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {}
+    "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
+    "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectUniqueName": "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
         "projectName": "TatBlog.Core",
-        "projectPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
+        "projectPath": "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Core\\TatBlog.Core.csproj",
         "packagesPath": "C:\\Users\\Bow\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\Git_User\\PTUDWNC\\src\\TipsAndTricks\\TatBlog.Core\\obj\\",
+        "outputPath": "D:\\Program Files\\Visual Studio 2022\\Source\\src\\TipsAndTricks\\TatBlog.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Visual Studio 2022\\Shared\\NuGetPackages"
