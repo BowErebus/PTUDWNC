@@ -14,14 +14,26 @@ public class BlogDbContext : DbContext
 
     public DbSet<Tag> Tags { get; set; }
 
+    // --- Lab01 ---
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         // Bạn phải thay đổi chuỗi kết nối cho phù hợp
         optionsBuilder.UseSqlServer(@"Server=DESKTOP-J6GLMIC\SQLEXPRESS;Database=TatBlog;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True");
     }
 
+    // --- Lab02 ---
+    public BlogDbContext(DbContextOptions<BlogDbContext> options)
+        : base(options)
+    {
+    }
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.ApplyConfigurationsFromAssembly(typeof(CategoryMap).Assembly);
+        modelBuilder.ApplyConfigurationsFromAssembly(
+            typeof(CategoryMap).Assembly);
+    }
+
+    public BlogDbContext()
+    {
     }
 }
